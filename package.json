@@ -1,9 +1,10 @@
 {
+  "homepage": "https://shogohirasawa.github.io/react-ToDo/",
   "name": "react-todo",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "public/index.html",
+  "main": "ｓｒｃ/index.ｊｓ",
   "dependencies": {
     "react": "17.0.0",
     "react-dom": "17.0.0",
