@@ -1,6 +1,7 @@
 {
   "name": "react-todo",
   "version": "1.0.0",
+  "homepage":"https://shogohirasawa.github.io/react-ToDo/"
   "description": "",
   "keywords": [],
   "main": "src/index.js",
